@@ -32,6 +32,8 @@ taxonomies:
 # Site Parameters
 params:
   description: 'The Wayist Blog serves as a scholarly forum where authors and practitioners explore the ancient wisdom tradition of Wayism for modern seekers. Here, philosophy meets daily life, offering practical guidance for spiritual evolution on the Butterfly Path.'
+   # Add custom CSS
+  custom_css: ["css/wayist-custom.css"]
   
   # SEO and Social
   keywords: ['Wayism', 'spirituality', 'philosophy', 'Butterfly Path', 'divine connection', 'energy awareness', 'spiritual evolution']
@@ -43,7 +45,7 @@ params:
       url: 'https://wayism.org'
     - name: 'Community'
       url: 'https://wayism.life'
-    - name: 'Energy Work'
+    - name: 'Healing Workhops'
       url: 'https://wayism.net'
   
   # Navigation to Wayism Network

@@ -1,0 +1,264 @@
+/* 
+   Wayist Blog Custom Colors
+   Adds warm, earth-toned branding while preserving excellent readability
+*/
+
+/* ==========================================================================
+   HEADER & NAVIGATION - Warm earth tones inspired by Wayism.org
+   ========================================================================== */
+
+header, .site-header {
+    background: linear-gradient(135deg, #f4f1eb 0%, #e8e2d5 100%) !important;
+    border-bottom: 2px solid #d4c4a8 !important;
+}
+
+/* Navigation links - warm gold accent */
+nav a, .nav a, .navigation a, .menu a {
+    color: #8b6914 !important;
+    transition: color 0.3s ease;
+    font-weight: 500;
+}
+
+nav a:hover, .nav a:hover, .navigation a:hover, .menu a:hover {
+    color: #b8860b !important;
+    text-decoration: none;
+}
+
+/* Site title/logo area */
+.site-title, .site-title a, .logo, .logo a, h1.title, h1.title a {
+    color: #5d4e37 !important;
+    text-decoration: none;
+}
+
+.site-title a:hover, .logo a:hover, h1.title a:hover {
+    color: #8b6914 !important;
+}
+
+/* ==========================================================================
+   CONTENT LINKS & TYPOGRAPHY
+   ========================================================================== */
+
+/* Blog post titles - keep dark for readability, add warm hover */
+.post-title a, .entry-title a, .content h1 a, .content h2 a {
+    color: #2c3e50 !important;
+    text-decoration: none;
+}
+
+.post-title a:hover, .entry-title a:hover, .content h1 a:hover, .content h2 a:hover {
+    color: #8b6914 !important;
+}
+
+/* Content links - subtle gold accent */
+.content a, .post-content a, .entry-content a, article a {
+    color: #8b6914 !important;
+    text-decoration: underline;
+    text-decoration-color: rgba(139, 105, 20, 0.3);
+}
+
+.content a:hover, .post-content a:hover, .entry-content a:hover, article a:hover {
+    color: #b8860b !important;
+    text-decoration-color: rgba(184, 134, 11, 0.6);
+}
+
+/* ==========================================================================
+   BUTTONS & CALL-TO-ACTION ELEMENTS
+   ========================================================================== */
+
+/* Read more buttons and CTAs */
+.read-more a, .continue-reading a, .btn, .button {
+    background-color: #8b6914 !important;
+    color: white !important;
+    padding: 10px 20px !important;
+    border-radius: 6px !important;
+    text-decoration: none !important;
+    display: inline-block;
+    transition: all 0.3s ease;
+    border: none;
+    font-weight: 500;
+}
+
+.read-more a:hover, .continue-reading a:hover, .btn:hover, .button:hover {
+    background-color: #b8860b !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(139, 105, 20, 0.3);
+}
+
+/* Form elements */
+button, input[type="submit"], input[type="button"] {
+    background-color: #8b6914 !important;
+    color: white !important;
+    border: 1px solid #8b6914 !important;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, input[type="submit"]:hover, input[type="button"]:hover {
+    background-color: #b8860b !important;
+    border-color: #b8860b !important;
+}
+
+/* ==========================================================================
+   METADATA & SECONDARY ELEMENTS
+   ========================================================================== */
+
+/* Author bylines, dates, and metadata */
+.author, .by-author, .post-meta, .entry-meta, .meta, .post-date {
+    color: #8b6914 !important;
+    font-size: 0.9em;
+}
+
+.author a, .by-author a, .post-meta a, .entry-meta a {
+    color: #8b6914 !important;
+    text-decoration: none;
+}
+
+.author a:hover, .by-author a:hover, .post-meta a:hover, .entry-meta a:hover {
+    color: #b8860b !important;
+}
+
+/* ==========================================================================
+   TAGS & CATEGORIES
+   ========================================================================== */
+
+.tag, .category, .tags a, .categories a, .taxonomy a {
+    background-color: #f4f1eb !important;
+    color: #5d4e37 !important;
+    padding: 4px 12px !important;
+    border-radius: 20px !important;
+    text-decoration: none !important;
+    margin: 2px 4px 2px 0 !important;
+    display: inline-block;
+    border: 1px solid #d4c4a8;
+    font-size: 0.85em;
+    transition: all 0.3s ease;
+}
+
+.tag:hover, .category:hover, .tags a:hover, .categories a:hover, .taxonomy a:hover {
+    background-color: #e8e2d5 !important;
+    color: #8b6914 !important;
+    border-color: #8b6914 !important;
+}
+
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+
+footer, .site-footer, .footer {
+    background-color: #f9f7f4 !important;
+    border-top: 1px solid #e8e2d5 !important;
+    color: #5d4e37 !important;
+}
+
+footer a, .site-footer a, .footer a {
+    color: #8b6914 !important;
+}
+
+footer a:hover, .site-footer a:hover, .footer a:hover {
+    color: #b8860b !important;
+}
+
+/* ==========================================================================
+   SIDEBAR (if present)
+   ========================================================================== */
+
+.sidebar, .sidebar-content {
+    background-color: #fefdfb !important;
+    border-left: 3px solid #e8e2d5;
+}
+
+.sidebar h2, .sidebar h3, .sidebar h4, .widget-title {
+    color: #5d4e37 !important;
+    border-bottom: 2px solid #d4c4a8 !important;
+    padding-bottom: 8px;
+}
+
+.sidebar a, .widget a {
+    color: #8b6914 !important;
+}
+
+.sidebar a:hover, .widget a:hover {
+    color: #b8860b !important;
+}
+
+/* ==========================================================================
+   SPECIAL WAYISM NETWORK ELEMENTS
+   ========================================================================== */
+
+/* Special styling for links to other Wayism sites */
+.wayism-network-link, a[href*="wayism.org"], a[href*="wayism.life"], a[href*="wayism.net"] {
+    display: inline-block !important;
+    background: linear-gradient(135deg, #8b6914, #b8860b) !important;
+    color: white !important;
+    padding: 12px 24px !important;
+    border-radius: 8px !important;
+    text-decoration: none !important;
+    margin: 8px 8px 8px 0 !important;
+    transition: all 0.3s ease;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(139, 105, 20, 0.2);
+}
+
+.wayism-network-link:hover, a[href*="wayism.org"]:hover, a[href*="wayism.life"]:hover, a[href*="wayism.net"]:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 6px 12px rgba(139, 105, 20, 0.4) !important;
+    color: white !important;
+}
+
+/* ==========================================================================
+   PRESERVE EXCELLENT READABILITY
+   ========================================================================== */
+
+/* Ensure main content text remains highly readable */
+.post-content, .entry-content, article p, .content p {
+    color: #333 !important;
+    line-height: 1.7 !important;
+    font-size: 1.1em;
+}
+
+/* Headings in content */
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6,
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+    color: #2c3e50 !important;
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+}
+
+/* Blockquotes - special Wayist styling */
+blockquote {
+    border-left: 4px solid #8b6914 !important;
+    background-color: #f9f7f4 !important;
+    padding: 20px !important;
+    margin: 30px 0 !important;
+    font-style: italic;
+    color: #5d4e37 !important;
+}
+
+/* Code blocks - maintain readability */
+code, pre {
+    background-color: #f8f8f8 !important;
+    border: 1px solid #e8e2d5 !important;
+    color: #333 !important;
+}
+
+/* ==========================================================================
+   RESPONSIVE ADJUSTMENTS
+   ========================================================================== */
+
+@media (max-width: 768px) {
+    .wayism-network-link, a[href*="wayism.org"], a[href*="wayism.life"], a[href*="wayism.net"] {
+        display: block !important;
+        margin: 8px 0 !important;
+        text-align: center;
+    }
+    
+    header, .site-header {
+        padding: 15px 10px !important;
+    }
+    
+    .tag, .category, .tags a, .categories a {
+        margin: 2px 2px !important;
+        padding: 3px 8px !important;
+        font-size: 0.8em !important;
+    }
+}
