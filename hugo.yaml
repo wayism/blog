@@ -1,0 +1,139 @@
+# hugo.yaml - Main Hugo Configuration for Wayist Blog
+
+baseURL: 'https://blog.wayism.org'
+languageCode: 'en-us'
+title: 'Wayist Blog - Ancient Wisdom for Modern Seekers'
+theme: 'ananke'  # Custom theme or adapted existing theme
+
+# Language Configuration for English/Spanish
+defaultContentLanguage: 'en'
+languages:
+  en:
+    title: 'Wayist Blog - Ancient Wisdom for Modern Seekers'
+    weight: 1
+    languageName: 'English'
+    params:
+      description: 'Scholarly discourse and practical guidance from Wayist authors exploring spirituality, philosophy, and conscious living on the Butterfly Path.'
+  es:
+    title: 'Blog Caminista - Sabiduría Ancestral para Buscadores Modernos'
+    weight: 2
+    languageName: 'Español'
+    params:
+      description: 'Discurso académico y guía práctica de autores Caministas explorando espiritualidad, filosofía y vida consciente en el Sendero Mariposa.'
+
+# Taxonomy Configuration
+taxonomies:
+  category: 'categories'
+  tag: 'tags'
+  author: 'authors'
+  topic: 'topics'
+  difficulty: 'difficulty'
+
+# Site Parameters
+params:
+  description: 'The Wayist Blog serves as a scholarly forum where authors and practitioners explore the ancient wisdom tradition of Wayism for modern seekers. Here, philosophy meets daily life, offering practical guidance for spiritual evolution on the Butterfly Path.'
+  
+  # SEO and Social
+  keywords: ['Wayism', 'spirituality', 'philosophy', 'Butterfly Path', 'divine connection', 'energy awareness', 'spiritual evolution']
+  author: 'Wayist Authors Collective'
+  
+  # Social Links
+  social:
+    - name: 'Website'
+      url: 'https://wayism.org'
+    - name: 'Community'
+      url: 'https://wayism.life'
+    - name: 'Energy Work'
+      url: 'https://wayism.net'
+  
+  # Navigation to Wayism Network
+  wayism_network:
+    - name: 'Wayism.org'
+      url: 'https://wayism.org'
+      description: 'Comprehensive teachings, books, and philosophical foundations'
+    - name: 'Wayism.Life'
+      url: 'https://wayism.life'
+      description: 'Online community for daily support, discussions, and group practices'
+    - name: 'Wayism.net'
+      url: 'https://wayism.net'
+      description: 'Energy awareness workshops, healing arts, and practical training'
+  
+  # Content Settings
+  show_reading_time: true
+  show_word_count: true
+  show_author_bio: true
+  enable_search: true
+  posts_per_page: 12
+  related_posts: 5
+  
+  # Features
+  enable_comments: false  # Can enable later with Disqus or similar
+  enable_newsletter: true
+  enable_social_sharing: true
+
+# Menu Configuration
+menu:
+  main:
+    - name: 'Home'
+      url: '/'
+      weight: 10
+    - name: 'Authors'
+      url: '/authors/'
+      weight: 20
+    - name: 'Categories'
+      url: '/categories/'
+      weight: 30
+    - name: 'Topics'
+      url: '/topics/'
+      weight: 40
+    - name: 'Resources'
+      url: '/resources/'
+      weight: 50
+    - name: 'About'
+      url: '/about/'
+      weight: 60
+
+# Markup Configuration for Enhanced Content
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Allows HTML in markdown
+  highlight:
+    style: 'github'
+    lineNos: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+
+# Related Content Configuration
+related:
+  includeNewer: true
+  indices:
+    - name: 'tags'
+      weight: 100
+    - name: 'categories'
+      weight: 80
+    - name: 'authors'
+      weight: 60
+  threshold: 80
+  toLower: false
+
+# Output formats for RSS, JSON, etc.
+outputs:
+  home: ['HTML', 'RSS', 'JSON']
+  page: ['HTML']
+  section: ['HTML', 'RSS']
+
+# Privacy Configuration
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+# Security Configuration  
+security:
+  funcs:
+    getenv: ['HUGO_ENV']
