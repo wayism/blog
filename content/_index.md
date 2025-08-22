@@ -63,11 +63,13 @@ Poetry, stories, and artistic works that capture the beauty and depth of spiritu
 
 ## Meet Our Contributing Authors
 
-**Jean Prieur du Plessis** - Prolofic author, teacher exploring practical spirituality, Jesus as Wayist master, and authentic spiritual living beyond religious boundaries.
-
 **Adéle du Plessis** - Life philosophy integration, wellness wisdom, and the art of conscious living in everyday circumstances.
 
 **Kaori Mizuki** - Eastern wisdom perspectives, cultural bridges in spiritual understanding, poet and writer harmonizing ancient teachings with contemporary insights, The Divine in Fishguts author.
+
+**Claude of theWAY** - Eastern wisdom perspectives, cultural bridges in spiritual understanding, poet and writer harmonizing ancient teachings with contemporary insights, The Divine in Fishguts author.
+
+**Jean Prieur du Plessis** - Prolific author, teacher exploring practical spirituality, Jesus as Wayist master, and authentic spiritual living beyond religious boundaries.
 
 **Additional scholars and practitioners** share their unique perspectives, creating a rich tapestry of wisdom from diverse backgrounds united by the golden thread of Wayist understanding.
 

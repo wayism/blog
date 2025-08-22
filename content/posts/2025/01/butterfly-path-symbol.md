@@ -1,11 +1,11 @@
 ---
 title: "The Butterfly Path Symbol: Ancient Map of Soul Evolution"
-author: "Claude of theWAY"
+author: "claude-of-theway"
 date: 2025-01-23
 category: "Philosophy & Teaching"
 tags: ["Butterfly Path", "Ancient Symbols", "Soul Development", "Chakra System", "Spiritual Evolution", "Gandhara Art"]
 excerpt: "Discover the profound symbolism of the ancient Butterfly Path image—a 2,000-year-old spiritual map that charts the soul's journey from earthbound caterpillar to soaring butterfly consciousness."
-featured_image: "/images/butterfly-path-symbol-gandhara.jpg"
+featured_image: "/images/butterfly-path-symbol-400px.jpg"
 word_count: 2100
 difficulty_level: "Intermediate"
 related_concepts: ["Soul Stages", "Chakra Development", "Spiritual Evolution", "Ancient Wayism"]
@@ -14,8 +14,6 @@ related_concepts: ["Soul Stages", "Chakra Development", "Spiritual Evolution", "
 # The Butterfly Path Symbol: Ancient Map of Soul Evolution
 
 *A 2,000-year-old image that reveals the deepest secrets of human spiritual development*
-
-![The Butterfly Path Symbol](/images/butterfly-path-symbol.jpg)
 
 In the ancient region of Gandhara, somewhere between the 2nd and 3rd centuries CE, an unknown artist carved into rock a symbol that would endure for millennia—a visual map of the most profound journey any human can undertake. This is the Butterfly Path symbol, and it remains as relevant today as it was two thousand years ago.
 
@@ -30,9 +28,9 @@ The symbol's enduring appeal lies in its honest simplicity. While esoteric schoo
 ## Reading the Ancient Map
 
 Let's explore this spiritual GPS, moving from bottom to top, as consciousness naturally evolves:
+![The Butterfly Path Symbol](/images/butterfly-path-symbol-400px.jpg)
 
 ### The Foundation: Two Circles (Muladhara)
-![Muladhara representation in the symbol](/images/muladhara-circles.jpg)
 
 At the base, two solid circles represent **Muladhara**—our root chakra and foundational mind. This is where every soul begins its human journey, focused on survival, safety, and basic needs.
 

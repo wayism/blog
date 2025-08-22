@@ -1,0 +1,7 @@
+{{ define "main" }}
+<h1>AUTHORS LIST PAGE</h1>
+<p>This is our custom authors list</p>
+{{ range .Pages }}
+<p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+{{ end }}
+{{ end }}
