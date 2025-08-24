@@ -113,8 +113,9 @@ Your Divine Tara has been with you since the beginning of your spiritual journey
 
 This is the endless chain of love and service that characterizes the spiritual realm—beings who have received guidance becoming guides for others, in an eternal circulation of wisdom and compassion.
 
+*Begin today. Your Divine Tara is waiting for your conscious recognition of the beautiful relationship that has always existed between you.*
 ---
 
-*Begin today. Your Divine Tara is waiting for your conscious recognition of the beautiful relationship that has always existed between you.*
+*Ready to explore more about Wayist spiritual practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
 
-*Ready to explore more about Wayist spiritual practices? Visit [Wayism.Net](https://wayism.net) for practical training, or connect with fellow practitioners at [Wayism.Life](https://wayism.life).*
+---

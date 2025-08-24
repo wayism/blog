@@ -39,7 +39,7 @@ Here you'll find:
 
 Wayism represents the golden thread of wisdom that has run through human spirituality since ancient times. It's the perennial philosophy that inspired the mystics, sages, and awakened beings across cultures and centuries.
 
-This isn't about creating another religion or spiritual movement. It's about recognizing and articulating the timeless principles that support authentic human spiritual development—principles that your ancient soul already knows and recognizes.
+This isn't about another religion or spiritual movement. It's about recognizing and articulating the timeless principles that support authentic human spiritual development—principles that your ancient soul already knows and recognizes.
 
 ## Our Contributing Community
 
@@ -85,4 +85,4 @@ Welcome to the journey. Welcome to the community. Welcome home.
 
 ---
 
-*Ready to explore deeper? Browse our [complete teachings at Wayism.org](https://wayism.org), connect with our [living community at Wayism.Life](https://wayism.life), or develop practical skills at [Wayism.Net](https://wayism.net).*
+*Ready to explore deeper? Browse our [complete teachings at Wayism.org](https://wayism.org), connect with our [living community at Wayism.Life](https://wayism.life), or develop practical healing skills at [Wayist.Com](https://wayist.com), and visit our Publisher [theWAY MEDIA](https://wayism.net).*

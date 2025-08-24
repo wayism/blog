@@ -1,18 +1,12 @@
 {{ define "main" }}
-
-{{ if eq .Section "authors" }}
-<!-- This is an author page -->
-
-<!-- DEBUG INFO - Uncomment if needed for troubleshooting -->
-<!--
+<h1>AUTHOR SINGLE PAGE DEBUG</h1>
 <p>Title: {{ .Title }}</p>
 <p>Kind: {{ .Kind }}</p>
 <p>Type: {{ .Type }}</p>
 <p>Section: {{ .Section }}</p>
--->
 
 {{ if .Params.bio }}
-<!-- <h2>Found Author Data!</h2> -->
+<h2>Found Author Data!</h2>
 <div class="author-profile">
   <header class="author-header">
     {{ if .Params.image }}
@@ -69,24 +63,6 @@
 {{ end }}
 {{ else }}
 <p>No articles found for {{ $author }}</p>
-{{ end }}
-
-{{ else }}
-<!-- This is NOT an author page - use simple layout for posts -->
-<article class="post-content">
-  <h1>{{ .Title }}</h1>
-  <div class="post-meta">
-    {{ if .Date }}
-    <time>{{ .Date.Format "January 2, 2006" }}</time>
-    {{ end }}
-    {{ if .Params.author }}
-    <span class="author">by {{ .Params.author }}</span>
-    {{ end }}
-  </div>
-  <div class="content">
-    {{ .Content }}
-  </div>
-</article>
 {{ end }}
 
 <style>
@@ -159,17 +135,6 @@
 .author-specialties li {
   padding: 0.5rem 0;
   border-bottom: 1px solid #e8e2d5;
-}
-
-.post-content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-.post-meta {
-  color: #666;
-  margin-bottom: 2rem;
 }
 
 @media (max-width: 768px) {

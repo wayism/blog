@@ -133,8 +133,6 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/claude-of-theway/</loc>
-  </url><url>
     <loc>http://localhost:1313/difficulty/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,6 +144,12 @@
                 hreflang="en"
                 href="http://localhost:1313/difficulty/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/authors/jean-prieur-du-plessis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/salvar-daosenglu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/teacher-prahdeep/</loc>
   </url><url>
     <loc>http://localhost:1313/topics/</loc>
     <xhtml:link

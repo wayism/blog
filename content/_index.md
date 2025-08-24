@@ -35,7 +35,10 @@ Dive deep into sacred texts, core concepts, and philosophical foundations. Acces
 ### **[Wayism.Life](https://wayism.life)** - *Living Community & Daily Support*
 Join our vibrant global community for meaningful discussions, group practices, meditation sessions, and connection with fellow travelers walking the Butterfly Path.
 
-### **[Wayism.Net](https://wayism.net)** - *Energy Awareness & Practical Training*
+### **[Wayism.Net](https://wayism.net)** - *theWAY MEDIA publisher*
+Wayist books published by theWAY MEDIA are available from most retailers around the world.
+
+### **[Wayism.Net](https://wayist.com)** - *Energy Awareness & Practical Training*
 Develop tangible spiritual skills through workshops in energy healing, Pneumatherapy, divine connection techniques, and hands-on consciousness development.
 
 ---
