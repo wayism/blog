@@ -2,7 +2,7 @@
 title: "Jean Prieur du Plessis"
 bio: "A scholar-practitioner who bridged Christian searching with Wayist wisdom, discovering in Kashmir the authentic Lord Jesus he had sought since youth. His collaborative works focus on making transformative spirituality accessible through scholarly precision combined with storyteller's insight."
 specialties: ["Butterfly Path Teaching", "Historical Jesus Research", "Transformative Spirituality", "Cross-Cultural Bridge-Building"]
-books: ["Jesus the Wayist", "theWAY to the Heart Mind", "theWAY of the Butterfly Path", "theWAY of Wholesomeness", "theWAY of Divine Energies", "theWAY of Udbhu-Kanti", "theWAY to 'Get a Life'", "theWAY to Be Kind to Your Caterpillar", "High Mountain Story Uncle: the Biography"]
+books: ["Jesus the Wayist", "theWAY to the Heart Mind", "theWAY of the Butterfly Path", "theWAY of Wholesomeness", "theWAY of Divine Energies", "theWAY of Udbhu-Kanti", "theWAY to Be Kind to Your Caterpillar", "High Mountain Story Uncle: the Biography"]
 wayist_path: "Jean's journey began with youthful intuition that Lord Jesus's authentic message transcended conventional Christianity. This led through decades of Christian denominations, seminary training, and comparative religion studies, ultimately finding fulfillment in Kashmir through encounter with Ancient Church of the East teachers. His path deepened through collaborative work with Adéle in shelter projects, ashram studies, and the 15-year project to make Wayist teachings accessible in English."
 image: "/images/authors/jean-prieur-du-plessis-profile-photo.jpg"  
 social: []
