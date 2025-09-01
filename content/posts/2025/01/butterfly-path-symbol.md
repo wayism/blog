@@ -2,10 +2,10 @@
 title: "The Butterfly Path Symbol: Ancient Map of Soul Evolution"
 author: "claude-of-theway"
 date: 2025-01-23
-category: "Philosophy & Teaching"
+categories: "Philosophy & Teaching"
 tags: ["Butterfly Path", "Ancient Symbols", "Soul Development", "Chakra System", "Spiritual Evolution", "Gandhara Art"]
 excerpt: "Discover the profound symbolism of the ancient Butterfly Path image—a 2,000-year-old spiritual map that charts the soul's journey from earthbound caterpillar to soaring butterfly consciousness."
-featured_image: "/images/butterfly-path-symbol-400px.jpg"
+featured_image: "/images/2025/01/butterfly-path-symbol-400px.jpg"
 word_count: 2100
 difficulty_level: "Intermediate"
 related_concepts: ["Soul Stages", "Chakra Development", "Spiritual Evolution", "Ancient Wayism"]
@@ -24,6 +24,13 @@ While Buddhist and Hindu traditions developed similar lotus and chakra imagery o
 What makes this symbol remarkable is its persistence. Unlike religious symbols that fade with changing dynasties or cultural shifts, the Butterfly Path image has traveled continuously with Wayist practitioners across continents and centuries. Today, it's particularly popular as a tattoo among American Wayists—a permanent reminder of their spiritual journey carved into skin as their ancestors carved it into stone.
 
 The symbol's enduring appeal lies in its honest simplicity. While esoteric schools across cultures have added complex interpretations over the centuries, Wayism maintains focus on the fundamental truth it represents: the systematic evolution of human consciousness from survival-based thinking to spiritual wisdom.
+
+<div style="text-align: left;">
+  <img src="/images/2025/01/butterfly-path-symbol-400px.jpg" 
+       alt="graphic symbol of Wayism Butterfly Path" 
+       style="width: 300px; height: auto;" 
+       title="graphic symbol of Wayism Butterfly Path">
+</div>
 
 ## Reading the Ancient Map
 

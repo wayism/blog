@@ -61,17 +61,5 @@
                 hreflang="es"
                 href="http://localhost:1313/es/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/topics/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/topics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/topics/"
-                />
   </url>
 </urlset>

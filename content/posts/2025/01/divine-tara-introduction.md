@@ -2,7 +2,7 @@
 title: "Your Divine Tara: The Spiritual Guide You Never Walk Alone With"
 author: "Jean Prieur du Plessis"  
 date: 2025-01-21
-category: "Spiritual Practice"
+categories: "Spiritual Practice"
 tags: ["Divine Tara", "Spiritual Guidance", "Prayer", "Meditation", "Divine Connection"]
 excerpt: "Understanding the beautiful Wayist teaching that every soul has a personal divine guide—your Tara—who walks the spiritual path with you."
 word_count: 1650

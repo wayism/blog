@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Wayist Blog - Ancient Wisdom for Modern Seekers</title>
+    <title>Topics on Wayist Blog - Ancient Wisdom for Modern Seekers</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Wayist Blog - Ancient Wisdom for Modern Seekers</description>
+    <description>Recent content in Topics on Wayist Blog - Ancient Wisdom for Modern Seekers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
@@ -93,10 +93,80 @@
       <description></description>
     </item>
     <item>
+      <title>Acceptance</title>
+      <link>http://localhost:1313/tags/acceptance/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acceptance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Afterlife</title>
+      <link>http://localhost:1313/tags/afterlife/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/afterlife/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Authentic Teaching</title>
+      <link>http://localhost:1313/tags/authentic-teaching/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/authentic-teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beauty</title>
+      <link>http://localhost:1313/tags/beauty/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/beauty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community Resistance</title>
+      <link>http://localhost:1313/tags/community-resistance/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/community-resistance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Practice</title>
+      <link>http://localhost:1313/tags/daily-practice/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/daily-practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dayspring</title>
+      <link>http://localhost:1313/tags/dayspring/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dayspring/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Divine Connection</title>
       <link>http://localhost:1313/tags/divine-connection/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/divine-connection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Divine Encounters</title>
+      <link>http://localhost:1313/tags/divine-encounters/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/divine-encounters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Divine Love</title>
+      <link>http://localhost:1313/tags/divine-love/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/divine-love/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Divine Mother</title>
+      <link>http://localhost:1313/tags/divine-mother/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/divine-mother/</guid>
       <description></description>
     </item>
     <item>
@@ -107,10 +177,87 @@
       <description></description>
     </item>
     <item>
+      <title>Energy Awareness</title>
+      <link>http://localhost:1313/tags/energy-awareness/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy-awareness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engaged Spirituality</title>
+      <link>http://localhost:1313/tags/engaged-spirituality/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/engaged-spirituality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impermanence</title>
+      <link>http://localhost:1313/tags/impermanence/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/impermanence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interconnectedness</title>
+      <link>http://localhost:1313/tags/interconnectedness/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/interconnectedness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Karma</title>
+      <link>http://localhost:1313/tags/karma/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/karma/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Meditation</title>
       <link>http://localhost:1313/tags/meditation/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/meditation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modern Life</title>
+      <link>http://localhost:1313/tags/modern-life/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modern-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modern Spirituality</title>
+      <link>http://localhost:1313/tags/modern-spirituality/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modern-spirituality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monastic Life</title>
+      <link>http://localhost:1313/tags/monastic-life/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/monastic-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morning Practice</title>
+      <link>http://localhost:1313/tags/morning-practice/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/morning-practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature Wisdom</title>
+      <link>http://localhost:1313/tags/nature-wisdom/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nature-wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personality vs Message</title>
+      <link>http://localhost:1313/tags/personality-vs-message/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/personality-vs-message/</guid>
       <description></description>
     </item>
     <item>
@@ -121,10 +268,94 @@
       <description></description>
     </item>
     <item>
+      <title>Presence</title>
+      <link>http://localhost:1313/tags/presence/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/presence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Present Moment</title>
+      <link>http://localhost:1313/tags/present-moment/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/present-moment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sacred Ordinary</title>
+      <link>http://localhost:1313/tags/sacred-ordinary/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sacred-ordinary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sacred Practice</title>
+      <link>http://localhost:1313/tags/sacred-practice/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sacred-practice/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Spiritual Guidance</title>
       <link>http://localhost:1313/tags/spiritual-guidance/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/spiritual-guidance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual Home</title>
+      <link>http://localhost:1313/tags/spiritual-home/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spiritual-home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual Names</title>
+      <link>http://localhost:1313/tags/spiritual-names/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spiritual-names/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spiritual Practice</title>
+      <link>http://localhost:1313/tags/spiritual-practice/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spiritual-practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Street Spirituality</title>
+      <link>http://localhost:1313/tags/street-spirituality/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/street-spirituality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sukhavati</title>
+      <link>http://localhost:1313/tags/sukhavati/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sukhavati/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urban Contemplation</title>
+      <link>http://localhost:1313/tags/urban-contemplation/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/urban-contemplation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Water Ritual</title>
+      <link>http://localhost:1313/tags/water-ritual/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/water-ritual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wealth and Spirituality</title>
+      <link>http://localhost:1313/tags/wealth-and-spirituality/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wealth-and-spirituality/</guid>
       <description></description>
     </item>
     <item>

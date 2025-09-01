@@ -5,11 +5,27 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-08-20T19:08:56-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/2025/05/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ancient-symbols/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/butterfly-path/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/chakra-system/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
@@ -17,10 +33,16 @@
     <loc>http://localhost:1313/tags/gandhara-art/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/philosophy--teaching/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/soul-development/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spiritual-evolution/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/01/butterfly-path-symbol/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -36,9 +58,6 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/butterfly-path-symbol/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/community/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,6 +70,9 @@
     <loc>http://localhost:1313/tags/mindfulness/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/spiritual-practice/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2025/01/dayspring-practice-wayist-logo/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,19 +82,160 @@
     <loc>http://localhost:1313/tags/wayist-logo/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/2025/05/royal-visit/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/acceptance/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/afterlife/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/authentic-teaching/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/beauty/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/between-words-poem/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/cult-personality/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/monastery-walls/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/community-resistance/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/contemplation/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/daily-practice/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dayspring/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/divine-connection/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/divine-encounters/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/divine-love/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/divine-mother/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/divine-tara/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/energy-awareness/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/engaged-spirituality/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/impermanence/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/interconnectedness/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/karma/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/meditation/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modern-life/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modern-spirituality/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/monastic-life/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/morning-practice/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/nature-encounters/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nature-wisdom/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personality-vs-message/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/poetry/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/prayer/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/presence/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/present-moment/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sacred-ordinary/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sacred-practice/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/spiritual-development/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/spiritual-guidance/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spiritual-home/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spiritual-names/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spiritual-practice/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/spiritual-realms/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/spiritual-teaching/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/street-spirituality/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sukhavati/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/sukhavati-divine-mother/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/dayspring-practice/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/dignity-dying-petals/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/05/invisible-monastery/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/urban-contemplation/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/water-ritual/</loc>
+    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wealth-and-spirituality/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/01/divine-tara-introduction/</loc>
@@ -100,14 +263,16 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/welcome/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/01/welcome-to-wayist-blog/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/01/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/adele_author_profile/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <xhtml:link
@@ -121,17 +286,7 @@
                 href="http://localhost:1313/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
+    <loc>http://localhost:1313/category/</loc>
   </url><url>
     <loc>http://localhost:1313/difficulty/</loc>
     <xhtml:link
@@ -147,20 +302,10 @@
   </url><url>
     <loc>http://localhost:1313/authors/jean-prieur-du-plessis/</loc>
   </url><url>
+    <loc>http://localhost:1313/resources/</loc>
+  </url><url>
     <loc>http://localhost:1313/authors/salvar-daosenglu/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/teacher-prahdeep/</loc>
-  </url><url>
-    <loc>http://localhost:1313/topics/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/topics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/topics/"
-                />
   </url>
 </urlset>

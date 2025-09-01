@@ -2,7 +2,7 @@
 title: "Welcome to the Wayist Blog - A New Chapter Begins"
 author: "Jean Prieur du Plessis"
 date: 2025-01-20
-category: "Philosophy & Teaching"
+categories: "Philosophy & Teaching"
 tags: ["Welcome", "Wayism Introduction", "Blog Launch", "Community"]
 excerpt: "As we launch this scholarly forum for Wayist wisdom, we invite seekers worldwide to explore ancient teachings for modern spiritual evolution."
 featured_image: ""

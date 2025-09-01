@@ -2,7 +2,7 @@
 title: "The Dayspring Practice and Wayist Logo: Unity in Simplicity"
 author: "Jean Prieur du Plessis"
 date: 2025-01-22
-category: "Spiritual Practice"
+categories: "Spiritual Practice"
 tags: ["Dayspring Practice", "Wayist Logo", "Daily Ritual", "Community", "Mindfulness", "Water Practice"]
 excerpt: "Discover the simple daily practice that unites Wayists worldwide and the beautiful symbolism of our universal logo—ancient wisdom for modern connection."
 featured_image: "/images/theWAY-Wayism-logo-812px.jpg"
