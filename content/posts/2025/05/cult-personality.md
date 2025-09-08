@@ -3,7 +3,6 @@ title: "Beyond Cult of Personality: The Wayist Approach to Authentic Teaching"
 author: "Jean Prieur du Plessis"
 date: 2025-01-21
 categories: "Spiritual Teaching"
-category: "Poetry"
 tags: ["Spiritual Names", "Authentic Teaching", "Personality vs Message", "Community Resistance", "Energy Awareness"]
 excerpt: "Why Wayists focus on the message rather than the messenger, how spiritual names help transformation, and navigating growth when family and community resist your changes."
 word_count: 2800
